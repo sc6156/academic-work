@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GameCell
+comment0.text=\r\n\ A\ graphical\ representation\ of\ a\ cell\ in\ the\ Sokoban\ game\ which\ contains\r\n\ a\ keylistener\ to\ track\ moves\ made\ by\ the\ user\ and\ implement\ them.\r\n\r\n\ @author\ Scott\ Cumming\ (ID\ 21056374)\r\n\ @version\ March\ 2022\r\n
+comment1.params=board\ row\ col
+comment1.target=GameCell(SokobanGUI,\ int,\ int)
+comment1.text=\r\n\ Construct\ an\ individual\ cell\ using\ a\ JButton\ and\ assign\ it\ an\ \r\n\ icon\ which\ graphically\ represents\ the\ matching\ cell\ in\ the\ GUI,\ \r\n\ adding\ a\ keylistener.\ \r\n\ \r\n\ @param\ board\ the\ GUI\r\n\ @param\ row\ \ \ the\ row\ in\ the\ game\ model\r\n\ @param\ col\ \ \ the\ column\ in\ the\ game\ model\r\n
+comment2.params=e
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=c
+comment3.target=void\ setCellIcon(char)
+comment3.text=\r\n\ Set\ the\ icon\ of\ the\ GameCell.\r\n\ \r\n\ @param\ c\ the\ char\ occupying\ the\ matching\ cell\ in\ the\ model.\r\n
+numComments=4
