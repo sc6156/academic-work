@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FileManager
+comment0.text=\r\n\ Utility\ class\ which\ provides\ file\ handling\ functionality\ to\ both\ the\ \r\n\ Sokoban\ GUI\ and\ text-based\ UI.\ Contains\ methods\ for\ writing\ a\ game\ to\ a\ \r\n\ text\ file\ and\ reading\ a\ game\ from\ a\ text\ file.\ \r\n\r\n\ @author\ \ Scott\ Cumming\ (ID\ 21056374)\r\n\ @version\ March\ 2022\r\n
+comment1.params=file\ gameLevel\ moves
+comment1.target=void\ save(java.io.File,\ int,\ java.util.Stack)
+comment1.text=\r\n\ Saves\ the\ current\ level\ of\ the\ game\ and\ the\ moves\ made\ in\ \r\n\ that\ level\ in\ a\ text\ file.\r\n
+comment2.params=file
+comment2.target=java.util.ArrayList\ load(java.io.File)
+comment2.text=\r\n\ Reads\ moves\ from\ a\ text\ file\ using\ a\ scanner\ and\ returns\ them\ in\ an\r\n\ ArrayList.\ Also\ reads\ the\ level\ of\ the\ game\ from\ the\ file\ and\ stores\r\n\ this\ in\ a\ class\ variable.\r\n\ \r\n\ @return\ ArrayList\ containing\ moves\ linked\ to\ the\ saved\ level.\r\n
+comment3.params=
+comment3.target=int\ getLevel()
+comment3.text=\r\n\ Gets\ the\ level\ of\ the\ game\ loaded\ from\ a\ text\ file.\r\n\ \r\n\ @return\ the\ level\ of\ the\ game\ loaded\ from\ file.\r\n
+numComments=4
