@@ -16,4 +16,4 @@ This repo contains some of the work that I did during my MA and MSc, as outlined
     
 * [Research Project](https://github.com/sc6156/academic-work/tree/main/MSc/Research%20Project) - This folder contains the report for my final research project, which documents how I fine-tuned transformer-based text summarisation models (LongT5 and LED) on a child protection dataset that I created from the [NSPCC's case review collection](https://learning.nspcc.org.uk/case-reviews/national-case-review-repository). This custom dataset is hosted on the [Hugging Face platform](https://huggingface.co/datasets/scott156/NSPCC_dataset)* and the code I used to fine-tune and test the models was written in Google Colab. Links to the Colab notebooks can be found in the folder inside a docx file.
 
-* Please note 
+\* Please note, the custom dataset contains anonymised reports documenting child abuse cases that people may find upsetting.
