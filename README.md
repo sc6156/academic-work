@@ -1,1 +1,3 @@
-This report contains some of the work that I did during my MSc and MA. 
+This repo contains some of the work that I did during my MSc and MA. It contains:
+
+
