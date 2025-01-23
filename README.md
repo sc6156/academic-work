@@ -1,1 +1,1 @@
-## Under construction
+This report contains some of the work that I did during my MSc and MA. 
