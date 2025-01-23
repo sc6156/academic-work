@@ -3,7 +3,7 @@
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>PE7049_Assessment_W21056374</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>PE7049_Assessment</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 
 
 
@@ -13977,7 +13977,7 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="PE7049---Big-Data-&amp;-Cloud-Computing---Final-Assessment">PE7049 - Big Data &amp; Cloud Computing - Final Assessment<a class="anchor-link" href="#PE7049---Big-Data-&amp;-Cloud-Computing---Final-Assessment">&#182;</a></h1><h1 id="Submitted-by-Scott-Cumming-(W21056374)-on-24th-September-2023">Submitted by Scott Cumming (W21056374) on 24th September 2023<a class="anchor-link" href="#Submitted-by-Scott-Cumming-(W21056374)-on-24th-September-2023">&#182;</a></h1><hr>
+<h1 id="PE7049---Big-Data-&amp;-Cloud-Computing---Final-Assessment">PE7049 - Big Data &amp; Cloud Computing - Final Assessment<a class="anchor-link" href="#PE7049---Big-Data-&amp;-Cloud-Computing---Final-Assessment">&#182;</a></h1><h1 id="Submitted-by-Scott-Cumming-on-24th-September-2023">Submitted by Scott Cumming on 24th September 2023<a class="anchor-link" href="#Submitted-by-Scott-Cumming-on-24th-September-2023">&#182;</a></h1><hr>
 
 </div>
 </div>
@@ -14015,7 +14015,7 @@ a.anchor-link {
 <li>Police recorded crime Community Safety Partnership open data tables, from year ending March 2012 to year ending March 2015.</li>
 <li>Police recorded crime Community Safety Partnership open data tables, from year ending March 2016 to year ending March 2023.</li>
 </ul>
-<p>The data provides the number of offences in each Community Safety Partnership (CSP) area, rather than by LSOA. Therefore, data from the UK's Office for National Statistics (ONS) Open Geography Portal [<a href="#ref7">7</a>] was used to create an 'area_lookups' csv file that translates LSOA codes to CSP codes. This will be used to map the drugs offences in the street level crime data file to their relevant CSP area using their LSOA code, so they can then be combined with the firearms data for the analysis of claim 3. The module tutor has been granted access to both the 'firearms_data' and 'area_lookups' csv files, which are stored in a <a href="https://livenorthumbriaac-my.sharepoint.com/:f:/g/personal/w21056374_northumbria_ac_uk/Er_5tmlyBUdIswfUPzsQL10ByQeqMLN92AyCOqcD0kIHsg?e=77xY6g">folder in the author's University OneDrive account</a>.</p>
+<p>The data provides the number of offences in each Community Safety Partnership (CSP) area, rather than by LSOA. Therefore, data from the UK's Office for National Statistics (ONS) Open Geography Portal [<a href="#ref7">7</a>] was used to create an 'area_lookups' csv file that translates LSOA codes to CSP codes. This will be used to map the drugs offences in the street level crime data file to their relevant CSP area using their LSOA code, so they can then be combined with the firearms data for the analysis of claim 3. The module tutor has been granted access to both the 'firearms_data' and 'area_lookups' csv files, which are stored in a <a href="">folder in the author's University OneDrive account</a>.</p>
 <p>Big data analysis will be undertaken on a Linux Virtual Machine (VM) procured through Microsoft Azure in a Docker container running PySpark. The datasets are saved in Azure blob storage and will be accessed from this Jupyter Notebook.</p>
 <p>Initially, the 'Sample_1pc_Data' csv file containing a small subset of the street level crime data file will be used to speed up development. This will be processed on a VM with 2 vCPUs, 8GB RAM and a standard SSD. When the full street level crime data file is ready to be processed, the VM will be upgraded to 4 vCPUs, 16GB RAM and a premium 256GB SSD. This is being done to accelerate the intensive shuffle operations that will be executed in PySpark. In addition to upgrading the VM, the SparkSession parameters will be reconfigured to improve I/O efficiency during these operations [<a href="#ref8">8</a>]. Moreover, those shuffle operations used solely for development purposes will be 'commented out' when the full street level crime data file is processed.</p>
 
