@@ -6,7 +6,7 @@ This repo contains some of the work that I did during my MA and MSc, as outlined
 * [MA/MA Transnational Justice & Organised Crime Module Essay.pdf](https://github.com/sc6156/academic-work/blob/main/MA/MA%20Transnational%20Justice%20%26%20Organised%20Crime%20Module%20Essay.pdf) - This is an essay I wrote for the Transnational Justice and Organised Crime module and is titled ***To what extent did the Russian mafiya become a state within a state after the fall of the USSR***.
 
 #### MSc in Computer Science with Data Analytics (awarded 2024)
-* Modules - This folder contains work that I completed as part of the following modules:
+* Modules:
   * [AI & Digital Technology](https://github.com/sc6156/academic-work/tree/main/MSc/Modules/AI%20%26%20Digital%20Technology) -
   * [Data Modelling & Analytics](https://github.com/sc6156/academic-work/tree/main/MSc/Modules/Data%20Modelling%20%26%20Analytics) -
   * [Object Orientated Programming](https://github.com/sc6156/academic-work/tree/main/MSc/Modules/OOP%20-%20Sokoban) -
@@ -14,4 +14,4 @@ This repo contains some of the work that I did during my MA and MSc, as outlined
   * [Statistics & Business Intelligence](https://github.com/sc6156/academic-work/tree/main/MSc/Modules/Statistics%20%26%20Business%20Intelligence) -
   * XXXXXXXXXXXXXXX -
     
-* [Research Project](https://github.com/sc6156/academic-work/tree/main/MSc/Research%20Project) - 
+* [Research Project](https://github.com/sc6156/academic-work/tree/main/MSc/Research%20Project) - This folder contians the report for my final research project, which documents how I fine-tuned transformer-based text summarisation models (LongT5 and LED) on a child protection dataset that I created from publicly available sources.
