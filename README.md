@@ -13,4 +13,5 @@ This repo contains some of the work that I did during my MA and MSc, as outlined
   * [Secure Web Design](https://github.com/sc6156/academic-work/tree/main/MSc/Modules/Secure%20Web%20Design%20-%20Coorie) -
   * [Statistics & Business Intelligence](https://github.com/sc6156/academic-work/tree/main/MSc/Modules/Statistics%20%26%20Business%20Intelligence) -
   * XXXXXXXXXXXXXXX -
-* Research Project - 
+    
+* [Research Project](https://github.com/sc6156/academic-work/tree/main/MSc/Research%20Project) - 
