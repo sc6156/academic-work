@@ -6,4 +6,11 @@ This repo contains some of the work that I did during my MA and MSc, as outlined
 * [MA/MA Transnational Justice & Organised Crime Module Essay.pdf](https://github.com/sc6156/academic-work/blob/main/MA/MA%20Transnational%20Justice%20%26%20Organised%20Crime%20Module%20Essay.pdf) - This is an essay I wrote for the Transnational Justice and Organised Crime module and is titled ***To what extent did the Russian mafiya become a state within a state after the fall of the USSR***.
 
 #### MSc (awarded 2024)
-I under
+* Modules - This folder contains work that I completed as part of the following modules:
+  * AI & Digital Technology -
+  * Data Modelling & Analytics -
+  * Object Orientated Programming -
+  * Secure Web Design -
+  * Statistics & Business Intelligence -
+  * XXXXXXXXXXXXXXX -
+* Research Project - 
