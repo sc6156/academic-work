@@ -8,7 +8,7 @@ This repo contains some of the work that I did during my MA and MSc, as outlined
 ### MSc in Computer Science with Data Analytics (awarded 2024)
 * Modules:
   * [AI & Digital Technology](https://github.com/sc6156/academic-work/tree/main/MSc/Modules/AI%20%26%20Digital%20Technology) - This folder contains an essay I wrote titled ***An Overview of Support Vector Machines, Their Applications, and Their Use Cases in Law Enforcement***.
-  * [Data Modelling & Analytics](https://github.com/sc6156/academic-work/tree/main/MSc/Modules/Data%20Modelling%20%26%20Analytics) -
+  * [Data Modelling & Analytics](https://github.com/sc6156/academic-work/tree/main/MSc/Modules/Data%20Modelling%20%26%20Analytics) - In the final assessment for this module we were required to design a database 
   * [Object Orientated Programming](https://github.com/sc6156/academic-work/tree/main/MSc/Modules/OOP%20-%20Sokoban) -
   * [Secure Web Design](https://github.com/sc6156/academic-work/tree/main/MSc/Modules/Secure%20Web%20Design%20-%20Coorie) -
   * [Statistics & Business Intelligence](https://github.com/sc6156/academic-work/tree/main/MSc/Modules/Statistics%20%26%20Business%20Intelligence) -
